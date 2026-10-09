@@ -1,6 +1,6 @@
 # PRD Template
 
-# PRD di ScuolaChill · Team [nome del team]
+# PRD di ScuolaChill · Team [IL MIO TEAM SONO IO]
 
 <aside>
 💡
@@ -82,7 +82,7 @@ La lista di cosa **non** è incluso è la più preziosa del documento. Ogni riga
 
 | Stakeholder | Cosa fa | Cosa gli interessa | Come lo coinvolgete |
 | --- | --- | --- | --- |
-| Direttore | |  |  |
+| Direttore | | facendo sondaggi o interviste  |  |
 | Docenti |  |   |facendo sondaggi o interviste |
 | Studenti |  |  | facendo sondaggi o interviste |
 | Docente del corso | Valida il PRD | e io che ne so?  | Presentazione e domande |
@@ -92,7 +92,7 @@ La lista di cosa **non** è incluso è la più preziosa del documento. Ogni riga
 <aside>
 💡
 
-Gli stakeholder non sono solo gli utenti. Sono anche chi approva, chi paga, chi manterrà il sistema. Chiediti chi resterebbe deluso se ScuolaChill non funzionasse. IO
+Gli stakeholder non sono solo gli utenti. Sono anche chi approva, chi paga, chi manterrà il sistema. Chiediti chi resterebbe deluso se ScuolaChill non funzionasse. IO , i prof a cui ho fatto pressing , il direttore che ha garantito per me . 
 
 </aside>
 
@@ -106,11 +106,11 @@ Gli stakeholder non sono solo gli utenti. Sono anche chi approva, chi paga, chi 
 
 |  | Valore |
 | --- | --- |
-| Numero di studenti | *…* |
-| Numero di docenti | *…* |
-| Numero di classi | *…* |
-| Orario scolastico | *es. 8:00 – 14:00, dal lunedì al venerdì* |
-| Connettività | *es. Wi-Fi scolastico condiviso, rete mobile degli studenti, …* |
+| Numero di studenti | 300 |
+| Numero di docenti | 20|
+| Numero di classi | 20 |
+| Orario scolastico |8.00 -13.20 lun-ven + 1gg 8h |
+| Connettività | WI- FI scolastico bloccato da firewall per gli studenti |
 
 ### Gli archetipi
 
@@ -118,9 +118,9 @@ Arricchisci gli archetipi della traccia.
 
 | ID | Archetipo | Contesto d'uso | Competenze digitali | Dispositivo principale | Frequenza d'uso |
 | --- | --- | --- | --- | --- | --- |
-| ARC-001 | Direttore | scuola | poche | pc portatile | giornaliera |
-| ARC-002 | Docente | scuola /casa | dipende dal'età in generale pochissime|pc/ comuter / telefono | giornaliera |
-| ARC-003 | Studente | scuola / casa  | modeste se prendiamo in considerazione solo quelli con un cervello pensante | telefono/ ipad | giornaliera |
+| ARC-001 | Direttore | scuola | poche | pc portatile o fisso | giornaliera |
+| ARC-002 | Docente | scuola /casa | generalmente abbituato al registro elettronico |pc/ comuter | giornaliera |
+| ARC-003 | Studente | scuola / casa  | molto pratici con il telefono e il computer  | telefono/ ipad | giornaliera |
 
 <aside>
 💡
@@ -135,7 +135,7 @@ I collaudatori veri sono i ragazzi del primo anno. Usano lo smartphone in corrid
 
 ### ScuolaChill in poche righe
 
-*Racconta ScuolaChill come lo spiegheresti al Direttore in un minuto. Niente termini tecnici.*
+Scuola chill è un'registro elettronico interno rivoluzionario partendo dalle esigenze della scuola creato con l'intento di semplificare ,automatizzare e creare canali di comunicazione.
 
 ### User flow e scenari
 
